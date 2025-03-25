@@ -1,0 +1,14 @@
+torch==2.1.0
+torchvision
+accelerate==0.25.0
+diffusers==0.25.0
+deepspeed
+einops
+mmcv==2.1.0
+mmengine==0.8.4
+mmsegmentation
+transformers
+huggingface-hub==0.23.3
+numpy==1.24.4
+loralib
+ftfy
